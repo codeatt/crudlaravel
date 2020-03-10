@@ -3,7 +3,7 @@
 <div class="row">
     <div class="col-lg-12 margin-tb">
         <div class="pull-left">
-            <h2>Laravel 6 CRUD Example from scratch - ItSolutionStuff.com</h2>
+            <h2>Laravel 6 CRUD</h2>
         </div>
 
         <div class="pull-right">
@@ -22,7 +22,7 @@
 
 <table class="table table-bordered">
     <tr>
-        <th>No</th>
+        <th>Nº</th>
 
         <th>Name</th>
 
